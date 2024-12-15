@@ -33,3 +33,9 @@
 1. Склонируйте репозиторий.
 2. Откройте проект в Android Studio.
 3. Запустите приложение на эмуляторе или устройстве.
+
+![image](https://github.com/user-attachments/assets/765dc933-039d-439d-bfd7-f03f877b229d)
+![image](https://github.com/user-attachments/assets/a504a4b6-2c59-4954-a038-475d538ad8aa)
+
+
+
